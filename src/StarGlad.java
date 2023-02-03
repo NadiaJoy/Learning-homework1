@@ -10,8 +10,8 @@ public class StarGlad {
         System.out.println("⣿⣿⣿⣿⣿⣿⣿⣷⠄            ⠠⣾⣿⣿⣿⣿⣿⣿⣿");
         System.out.println("⣿⣿⣿⣿⣿⣿⣿⡟              ⢹⣿⣿⣿⣿⣿⣿⣿");
         System.out.println("⣿⣿⣿⣿⣿⣿⡿⠁    ⣠⣤⣶⣤⣄    ⠈⢿⣿⣿⣿⣿⣿⣿");
-        System.out.println("⣿⣿⣿⣿⣿⣿⠃ ⢀⣠⣾⣿⣿⣿⣿⣿⣿⣷⣄   ⠘⣿⣿⣿⣿⣿");
-        System.out.println("⣿⣿⣿⣿⣿⢏⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦.⡹⣿⣿⣿⣿");
+        System.out.println("⣿⣿⣿⣿⣿⣿⠃  ⣠⣾⣿⣿⣿⣿⣿⣿⣷⣄   ⠘⣿⣿⣿⣿⣿");
+        System.out.println("⣿⣿⣿⣿⣿⢏⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦.⡹⣿⣿⣿⣿");
         System.out.println("⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿");
 
 
